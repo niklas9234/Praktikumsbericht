@@ -1,0 +1,162 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{bringhurst:elements}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=26e95fb42484f0ba33bccaf28955982e}{%
+           family={Bringhurst},
+           familyi={B\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Point Roberts, Washington, USA}%
+      }
+      \list{publisher}{1}{%
+        {Hartley \& Marks}%
+      }
+      \strng{namehash}{26e95fb42484f0ba33bccaf28955982e}
+      \strng{fullhash}{26e95fb42484f0ba33bccaf28955982e}
+      \strng{fullhashraw}{26e95fb42484f0ba33bccaf28955982e}
+      \strng{bibnamehash}{26e95fb42484f0ba33bccaf28955982e}
+      \strng{authorbibnamehash}{26e95fb42484f0ba33bccaf28955982e}
+      \strng{authornamehash}{26e95fb42484f0ba33bccaf28955982e}
+      \strng{authorfullhash}{26e95fb42484f0ba33bccaf28955982e}
+      \strng{authorfullhashraw}{26e95fb42484f0ba33bccaf28955982e}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Elements of Typographic Style}
+      \field{year}{1992}
+      \true{nocite}
+    \endentry
+    \entry{miede:classicthesis}{manual}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=649da87eb5b9d8d2ebdb1d3fbd59d0f1}{%
+           family={Miede},
+           familyi={M\bibinitperiod},
+           given={André},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{649da87eb5b9d8d2ebdb1d3fbd59d0f1}
+      \strng{fullhash}{649da87eb5b9d8d2ebdb1d3fbd59d0f1}
+      \strng{fullhashraw}{649da87eb5b9d8d2ebdb1d3fbd59d0f1}
+      \strng{bibnamehash}{649da87eb5b9d8d2ebdb1d3fbd59d0f1}
+      \strng{authorbibnamehash}{649da87eb5b9d8d2ebdb1d3fbd59d0f1}
+      \strng{authornamehash}{649da87eb5b9d8d2ebdb1d3fbd59d0f1}
+      \strng{authorfullhash}{649da87eb5b9d8d2ebdb1d3fbd59d0f1}
+      \strng{authorfullhashraw}{649da87eb5b9d8d2ebdb1d3fbd59d0f1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Classic Thesis style}
+      \field{year}{2011}
+      \verb{urlraw}
+      \verb http://www.ctan.org/tex-archive/macros/latex/contrib/classicthesis/ClassicThesis.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.ctan.org/tex-archive/macros/latex/contrib/classicthesis/ClassicThesis.pdf
+      \endverb
+    \endentry
+    \entry{pantieri:classicthesis}{manual}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2c7d803dc13dd6528b75e80caf0ab3ef}{%
+           family={Pantieri},
+           familyi={P\bibinitperiod},
+           given={Lorenzo},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2c7d803dc13dd6528b75e80caf0ab3ef}
+      \strng{fullhash}{2c7d803dc13dd6528b75e80caf0ab3ef}
+      \strng{fullhashraw}{2c7d803dc13dd6528b75e80caf0ab3ef}
+      \strng{bibnamehash}{2c7d803dc13dd6528b75e80caf0ab3ef}
+      \strng{authorbibnamehash}{2c7d803dc13dd6528b75e80caf0ab3ef}
+      \strng{authornamehash}{2c7d803dc13dd6528b75e80caf0ab3ef}
+      \strng{authorfullhash}{2c7d803dc13dd6528b75e80caf0ab3ef}
+      \strng{authorfullhashraw}{2c7d803dc13dd6528b75e80caf0ab3ef}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{in Italian}
+      \field{title}{Introduzione allo stile \classicthesis}
+      \field{year}{2011}
+      \verb{urlraw}
+      \verb http://www.lorenzopantieri.net/LaTeX_files/ClassicThesis.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.lorenzopantieri.net/LaTeX_files/ClassicThesis.pdf
+      \endverb
+    \endentry
+    \entry{pantieri:art}{manual}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2c7d803dc13dd6528b75e80caf0ab3ef}{%
+           family={Pantieri},
+           familyi={P\bibinitperiod},
+           given={Lorenzo},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f246b61ccb7d69ba3509ca178f5462ba}{%
+           family={Gordini},
+           familyi={G\bibinitperiod},
+           given={Tommaso},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e8f401b177adf0dbe21c7403469d464a}
+      \strng{fullhash}{e8f401b177adf0dbe21c7403469d464a}
+      \strng{fullhashraw}{e8f401b177adf0dbe21c7403469d464a}
+      \strng{bibnamehash}{e8f401b177adf0dbe21c7403469d464a}
+      \strng{authorbibnamehash}{e8f401b177adf0dbe21c7403469d464a}
+      \strng{authornamehash}{e8f401b177adf0dbe21c7403469d464a}
+      \strng{authorfullhash}{e8f401b177adf0dbe21c7403469d464a}
+      \strng{authorfullhashraw}{e8f401b177adf0dbe21c7403469d464a}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{in Italian}
+      \field{title}{L'arte di scrivere con \LaTeX}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb http://www.lorenzopantieri.net/LaTeX_files/ArteLaTeX.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.lorenzopantieri.net/LaTeX_files/ArteLaTeX.pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

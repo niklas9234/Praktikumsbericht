@@ -1,0 +1,67 @@
+\documentclass[11pt,a4paper,oneside,openany,titlepage,fleqn,%
+               headinclude,,footinclude,BCOR5mm,%
+               numbers=noenddot,cleardoublepage=empty,%
+               tablecaptionabove]{scrreprt}
+% \documentclass[10pt,a4paper,twoside,openright,titlepage,fleqn,% --> Druckansicht
+
+\usepackage[german,american]{babel}
+%\usepackage[applemac]{inputenc}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage{varioref}
+\usepackage[style=philosophy-modern,hyperref,square,natbib]{biblatex}
+\usepackage{chngpage}
+\usepackage{calc}
+\usepackage{listings}
+\usepackage{graphicx}
+\usepackage{subfig}
+\usepackage{multicol}
+\usepackage{makeidx}
+\usepackage{fixltx2e}
+\usepackage{relsize}
+\usepackage{lipsum}
+\usepackage[eulerchapternumbers,subfig,beramono,eulermath,pdfspacing,listings]{classicthesis}
+\usepackage{arsclassica}
+
+
+\usepackage[a4paper,left=3cm,right=3cm,top=3cm,bottom=3cm]{geometry}
+
+\input{arsclassica-settings}
+
+\begin{document}
+\pagenumbering{roman}
+\pagestyle{plain}
+%******************************************************************
+% Frontmatter
+%******************************************************************
+\input{FrontBackMatter/Titlepage}
+\input{FrontBackMatter/Titleback}
+\clearpage
+\input{FrontBackMatter/Abstract+Sommario}
+\input{FrontBackMatter/Acknowledgements}
+\pagestyle{scrheadings} 
+\clearpage
+\input{FrontBackMatter/Contents}
+\cleardoublepage
+%******************************************************************
+% Mainmatter
+%******************************************************************
+\pagenumbering{arabic}
+\input{Chapters/Einführung}
+\input{Chapters/Datenbank-Backup}
+\input{Chapters/Refractoring-Tests}
+\input{Chapters/Zusammenfassung}
+\input{Chapters/Ausblick}
+\input{Chapters/Fundamentals}
+\input{Chapters/Code}
+% *****************************************************************
+% Backmatter
+%******************************************************************
+\clearpage
+\input{FrontBackMatter/Eidesstattliche_Erklärung}
+\clearpage
+\input{FrontBackMatter/Bibliography}
+\clearpage
+\input{FrontBackMatter/Index}
+\end{document}
