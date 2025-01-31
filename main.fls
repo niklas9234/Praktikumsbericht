@@ -1,6 +1,6 @@
-PWD c:\Software\LateXDocs\TheseisTheme_1 - Kopie - Kopie
+PWD c:\Software\LateXDocs\Praktikumsbericht
 INPUT C:\Users\nikla\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Software\LateXDocs\TheseisTheme_1 - Kopie - Kopie\main.tex
+INPUT c:\Software\LateXDocs\Praktikumsbericht\main.tex
 OUTPUT main.log
 INPUT C:\Users\nikla\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrreprt.cls
 INPUT C:\Users\nikla\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrreprt.cls

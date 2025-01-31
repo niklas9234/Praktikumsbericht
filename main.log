@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.31)  31 JAN 2025 17:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.31)  31 JAN 2025 20:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Software/LateXDocs/TheseisTheme_1 - Kopie - Kopie/main.tex"
-(c:/Software/LateXDocs/TheseisTheme_1 - Kopie - Kopie/main.tex
+**c:/Software/LateXDocs/Praktikumsbericht/main.tex
+(c:/Software/LateXDocs/Praktikumsbericht/main.tex
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-25>
 (C:\Users\nikla\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrreprt.cls
@@ -1677,14 +1677,14 @@ Package logreq Info: Writing requests to 'main.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  34930 strings out of 473536
- 658116 string characters out of 5714956
+ 657716 string characters out of 5714956
  1999195 words of memory out of 5000000
  57218 multiletter control sequences out of 15000+600000
  690423 words of font info for 174 fonts, out of 8000000 for 9000
  1153 hyphenation exceptions out of 8191
- 108i,23n,123p,10954b,3251s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,23n,123p,10939b,3251s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/nikla/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/nikla/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eurb10.pfb><C:/Users/nikla/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eurm10.pfb><C:/Users/nikla/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eusm10.pfb><C:/Users/nikla/AppData/Local/Programs/MiKTeX/fonts/type1/public/fpl/fplrc8a.pfb><C:/Users/nikla/AppData/Local/Programs/MiKTeX/fonts/type1/public/fpl/fplrij8a.pfb><C:/Users/nikla/AppData/Local/Programs/MiKTeX/fonts/type1/bera/fvmr8a.pfb><C:/Users/nikla/AppData/Local/Programs/MiKTeX/fonts/type1/nowacki/iwona/iwonab.pfb><C:/Users/nikla/AppData/Local/Programs/MiKTeX/fonts/type1/nowacki/iwona/iwonabi.pfb><C:/Users/nikla/AppData/Local/Programs/MiKTeX/fonts/type1/nowacki/iwona/iwonar.pfb><C:/Users/nikla/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/nikla/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (23 pages, 396500 bytes).
+Output written on main.pdf (23 pages, 396540 bytes).
 PDF statistics:
  738 PDF objects out of 1000 (max. 8388607)
  321 named destinations out of 1000 (max. 500000)
